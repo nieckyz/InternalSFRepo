@@ -5,7 +5,7 @@
     <qgisMinimumVersion>3.0</qgisMinimumVersion>
     <authorName>Dicky Zulkarnain/Smartfren</authorName>
     <email>dickyzulkarnain@msn.com</email>
-    <repositoryUrl>https://github.com/nieckyz/SFPlugin.git</repositoryUrl>
+    <repositoryUrl>ttps://github.com/nieckyz/InternalSFRepo.git<</repositoryUrl>
     <icon>icon.png</icon>
     <experimental>True</experimental>
 </qgisPlugin>
