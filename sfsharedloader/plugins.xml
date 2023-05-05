@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qgis_plugin>
+<qgis_plugin>
+  <general>
+    <name>sfsharedloade</name>
+    <description>An SF internal plugin for autoload Tab files from google drive</description>
+    <version>1.0</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <email>dickyzulkarnain@msn.com</email>
+    <repository>https://github.com/nieckyz/InternalSFRepo.git</repository>
+    <icon>icon.png</icon>
+    <experimental>True</experimental>
+  </general>
+  <repository_references>
+    <repository_reference url="https://plugins.qgis.org/plugins/plugins.xml"/>
+  </repository_references>
+</qgis_plugin>
