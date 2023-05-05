@@ -1,5 +1,5 @@
 <qgisPlugin>
-    <name>SFSharedFodler</name>
+    <name>SFSharedLoader</name>
     <version>1.0</version>
     <description>An SF internal plugin for autoload Tab files from google drive</description>
     <qgisMinimumVersion>3.0</qgisMinimumVersion>
