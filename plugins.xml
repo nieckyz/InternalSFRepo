@@ -2,7 +2,7 @@
 <!DOCTYPE qgis_plugin>
 <qgis_plugin>
   <general>
-    <name>sfsharedloade</name>
+    <name>sfsharedloader</name>
     <description>An SF internal plugin for autoload Tab files from google drive</description>
     <version>1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
