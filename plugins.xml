@@ -12,6 +12,6 @@
     <experimental>True</experimental>
   </general>
   <repository_references>
-    <repository_reference url="https://plugins.qgis.org/plugins/plugins.xml"/>
+    <repository_reference url="https://github.com/nieckyz/InternalSFRepo.git<"/>
   </repository_references>
 </qgis_plugin>
